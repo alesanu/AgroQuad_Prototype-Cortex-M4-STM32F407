@@ -23,3 +23,9 @@ The schematics and Layout of the Flight Control Board can be found here: https:/
 <p>
 To directly import the Code for Atollic TrueStudio, follow: https://drive.google.com/open?id=0B2tfhqDjs2sURm9MTkpRb2diN3c
 </p>
+
+# Contributions and Support
+
+Project Developed by Siddhant Gangapurwala (Author). 
+
+I would like to thank Shreyas Shah for his help in the design of the Flight Control Board. Also, Prof. Pavan Borra for his support throughout this project. 
